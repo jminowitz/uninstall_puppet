@@ -1,10 +1,10 @@
 name 'uninstall_puppet'
-maintainer 'The Authors'
+maintainer 'Joe Minowitzjoe.minowitz@hautelook.com'
 maintainer_email 'you@example.com'
 license 'All Rights Reserved'
 description 'Installs/Configures uninstall_puppet'
 long_description 'Installs/Configures uninstall_puppet'
-version '1.2.0'
+version '1.3.0'
 chef_version '>= 12.1' if respond_to?(:chef_version)
 
 # The `issues_url` points to the location where issues for this cookbook are
